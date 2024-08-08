@@ -900,6 +900,10 @@
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)
 - [ByteByteGo](https://www.youtube.com/@ByteByteGo/videos)
 
+#### Rate Limiting
+
+- [Visualizing algorithms for rate limiting](https://smudge.ai/blog/ratelimit-algorithms)
+
 #### Microservice
 
 - [Circuit breaker 패턴을 이용한 장애에 강한 MSA 서비스 구현하기](https://bcho.tistory.com/1247)
